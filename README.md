@@ -8,7 +8,7 @@ Giới thiệu chung về dataset: gồm 1 bảng dim chứa thông tin về use
 "Context: vấn đề sụt giảm doanh thu, lấy dữ lệu về số store churn của từng tháng quý 4/2021 và quý 1/2022 => set up meeting => empathyze data và stakeholder => mục đích để làm gì? vì thấy revenue giảm so với cùng kỳ năm trước và quý trước => assume là store churn giảm 
 
 doanh thu giảm : 
--        số lượng người dùng giảm => tìm thấy nền tảng khác hoặc buying thấp
+- số lượng người dùng giảm => tìm thấy nền tảng khác hoặc buying thấp
 -        Số store giảm
 -        Ko nhiều user churn nhưng sức bán của merchant giảm nên doanh thu giảm
 -        Ecommerce: user, store, buyer
